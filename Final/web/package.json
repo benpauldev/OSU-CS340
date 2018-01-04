@@ -1,0 +1,22 @@
+{
+  "name": "final_project",
+  "version": "0.0.1",
+  "description": "Final database project for CS340",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben Fondell",
+  "license": "MIT",
+  "homepage": "web.engr.oregonstate.edu/fondellb",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "execsql": "0.0.3",
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0",
+    "jquery": "^3.2.1",
+    "mysql": "^2.14.1",
+    "node-mysql-importer": "0.0.10"
+  }
+}
